@@ -25,3 +25,6 @@ Following the analysis, the following ideas and perspectives were obtained on th
 • Relevance-author connection: we notice that there is a connection between the relevance of the article in relation to our topic and the author of the article, for example the author Andy Hunter has a relevance average of 8.55, this suggests that he is the journalist dedicated to the team or even the area where he comes from team, Merseyside
 
 As a brief conclusion, following the 200 articles extracted and analyzed about the Liverpool FC football team, I can say that we have obtained a detailed picture of how Liverpool FC is seen by The Guardian newspaper, noting the high degree of relevance between the football team and her name appeared in every article, the mostly positive-neutral tone, as well as the controversies encountered during the team's active and inactive periods.
+
+
+  My Project is gonna have 5 Python files: main.py, which contains the extraction of the articles from the Guardian API and commit these articles in my database, OPENAI.py, Relevance_Author_Corelation.py, Sentiment_Author_Corelation.py, in which we will connect to the OpenAI API and create the functions to ask questions to ChatGPT and WordDocuments.py, in which we gonna display the tables from Controvertial, Sentiment and Relevant content, which ChatGPT generated.
